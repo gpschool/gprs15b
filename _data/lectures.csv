@@ -1,7 +1,7 @@
 day,date,month,start,end,title,pdf,ipynb,speaker,institution,youtube
 Wednesday,25,February,9:30,12:30,**Gaussian Processes**,./assets/session1.pdf,,Neil Lawrence,University of Sheffield,
-Wednesday,25,February,14:00,16:00,**Lab Class One**,,,Neil Lawrence,University of Sheffield,
+Wednesday,25,February,14:00,16:00,**Lab Class One**,,http://nbviewer.ipython.org/github/gpschool/gprs15b/blob/master/index.ipynb,Neil Lawrence,University of Sheffield,
 Thursday,26,February,9:30,12:30,**Multiple Output Processes and Approximations**,./assets/session2.pdf,,Neil Lawrence,University of Sheffield,
-Thursday,26,February,14:00,16:00,**Lab Class Two**,,,Neil Lawrence,University of Sheffield,
+Thursday,26,February,14:00,16:00,**Lab Class Two**,,http://nbviewer.ipython.org/github/gpschool/gprs15b/blob/master/index.ipynb,Neil Lawrence,University of Sheffield,
 Friday,27,February,9:30,12:30,**Dimensionality Reduction and Latent Force Models**,./assets/session3.pdf,,Neil Lawrence,University of Sheffield,
-Friday,27,February,14:00,16:00,**Lab Class Three**,,,Neil Lawrence,University of Sheffield,
+Friday,27,February,14:00,16:00,**Lab Class Three**,,http://nbviewer.ipython.org/github/gpschool/gprs15b/blob/master/index.ipynb,Neil Lawrence,University of Sheffield,
