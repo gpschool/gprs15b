@@ -1,0 +1,7 @@
+day,date,month,start,end,title,pdf,ipynb,speaker,institution,youtube
+Wednesday,19,January,9:30,12:30,**Gaussian Processes**,./assets/session1.pdf,,Neil Lawrence,University of Sheffield,
+Wednesday,19,January,14:00,16:00,**Lab Class One**,,,Neil Lawrence,University of Sheffield,
+Thursday,20,January,9:30,12:30,**Multiple Output Processes and Approximations**,./assets/session2.pdf,,Neil Lawrence,University of Sheffield,
+Thursday,20,January,14:00,16:00,**Lab Class Two**,,,Neil Lawrence,University of Sheffield,
+Friday,22,January,9:30,12:30,**Dimensionality Reduction and Latent Force Models**,./assets/session3.pdf,,Neil Lawrence,University of Sheffield,
+Friday,22,January,14:00,16:00,**Lab Class Three**,,,Neil Lawrence,University of Sheffield,
