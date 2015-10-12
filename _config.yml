@@ -8,6 +8,9 @@ url: "http://gpss.cc" # the base hostname & protocol for your site
 twitter_username: datascienceshef
 github_username:  SheffieldML
 facebook_page: gaussianprocesssummerschool
+analytics:
+  google:
+    tracking_id: UA-62991754-1
 
 youtube:
   height: 315
